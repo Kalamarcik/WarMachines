@@ -1,0 +1,174 @@
+
+==================== Yeni Oyun Başladı ====================
+Tarih: 09.02.2025 01:54:05
+=========================================================
+
+==================== Hamle 1 ====================
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Obus                 10         20         0         
+Firkateyn            10         15         0         
+Firkateyn            10         15         0         
+Ucak                 10         10         0         
+Obus                 10         20         0         
+Obus                 10         20         0         
+Ucak                 10         20         0         
+
+Bilgisayar Kartları:
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Firkateyn            10         15         0         
+Ucak                 10         10         0         
+Firkateyn            10         15         0         
+Ucak                 10         20         0         
+Obus                 10         20         0         
+Ucak                 10         20         0         
+Obus                 10         20         0         
+
+Mevcut Skorlar:
+Oyuncu Skoru: 0
+Bilgisayar Skoru: 0
+Oyuncunun en güçlü kartı: Obus (Vuruş: 10)
+Bilgisayarın en güçlü kartı: Firkateyn (Vuruş: 10)
+
+Tur Özeti:
+Oyuncunun toplam verdiği hasar: 70
+Bilgisayarın toplam verdiği hasar: 70
+Bu tur dengeli geçti.
+=========================================================
+
+==================== Hamle 2 ====================
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Firkateyn            10         15         0         
+Firkateyn            10         15         0         
+Ucak                 10         10         0         
+Obus                 10         10         10        
+Obus                 10         20         0         
+Ucak                 10         10         10        
+Firkateyn            10         25         0         
+
+Bilgisayar Kartları:
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Ucak                 10         10         10        
+Obus                 10         20         0         
+Firkateyn            10         15         0         
+Ucak                 10         20         0         
+Ucak                 10         10         0         
+Ucak                 10         20         0         
+
+Mevcut Skorlar:
+Oyuncu Skoru: 20
+Bilgisayar Skoru: 10
+Oyuncunun en güçlü kartı: Firkateyn (Vuruş: 10)
+Bilgisayarın en güçlü kartı: Ucak (Vuruş: 10)
+
+Tur Özeti:
+Oyuncunun toplam verdiği hasar: 70
+Bilgisayarın toplam verdiği hasar: 60
+Bu turu oyuncu domine etti!
+=========================================================
+
+==================== Hamle 3 ====================
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Firkateyn            10         15         0         
+Firkateyn            10         15         0         
+Ucak                 10         10         0         
+Obus                 10         10         10        
+Obus                 10         10         0         
+Firkateyn            10         15         0         
+Firkateyn            10         25         0         
+
+Bilgisayar Kartları:
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Ucak                 10         5          0         
+Obus                 10         10         0         
+Firkateyn            10         15         0         
+Ucak                 10         20         0         
+Ucak                 10         10         10        
+Obus                 10         20         0         
+
+Mevcut Skorlar:
+Oyuncu Skoru: 30
+Bilgisayar Skoru: 30
+Oyuncunun en güçlü kartı: Firkateyn (Vuruş: 10)
+Bilgisayarın en güçlü kartı: Ucak (Vuruş: 10)
+
+Tur Özeti:
+Oyuncunun toplam verdiği hasar: 70
+Bilgisayarın toplam verdiği hasar: 60
+Bu turu oyuncu domine etti!
+=========================================================
+
+==================== Hamle 4 ====================
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Firkateyn            10         15         0         
+Firkateyn            10         15         0         
+Ucak                 10         10         0         
+Obus                 10         10         10        
+Firkateyn            10         15         0         
+Firkateyn            10         25         0         
+
+Bilgisayar Kartları:
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Firkateyn            10         5          0         
+Ucak                 10         20         0         
+Ucak                 10         10         10        
+Obus                 10         20         0         
+Sida                 8          15         0         
+
+Mevcut Skorlar:
+Oyuncu Skoru: 50
+Bilgisayar Skoru: 50
+Oyuncunun en güçlü kartı: Firkateyn (Vuruş: 10)
+Bilgisayarın en güçlü kartı: Firkateyn (Vuruş: 10)
+
+Tur Özeti:
+Oyuncunun toplam verdiği hasar: 60
+Bilgisayarın toplam verdiği hasar: 48
+Bu turu oyuncu domine etti!
+=========================================================
+
+==================== Hamle 5 ====================
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Firkateyn            10         5          10        
+Firkateyn            10         15         0         
+Ucak                 10         10         0         
+Obus                 10         10         10        
+Firkateyn            10         7          0         
+Firkateyn            10         10         0         
+KFS                  10         10         0         
+
+Bilgisayar Kartları:
+Kart İsmi            Vuruş      Dayanıklılık Seviye Puanı
+-------------------------------------------------------------
+Obus                 10         10         0         
+Sida                 8          5          0         
+Ucak                 10         20         0         
+Firkateyn            10         5          0         
+Sida                 8          15         0         
+
+Mevcut Skorlar:
+Oyuncu Skoru: 60
+Bilgisayar Skoru: 50
+Oyuncunun en güçlü kartı: Firkateyn (Vuruş: 10)
+Bilgisayarın en güçlü kartı: Obus (Vuruş: 10)
+
+Tur Özeti:
+Oyuncunun toplam verdiği hasar: 70
+Bilgisayarın toplam verdiği hasar: 46
+Bu turu oyuncu domine etti!
+=========================================================
+
+==================== Oyun Sonucu ====================
+Kazanan: Oyuncu
+Oyuncu Final Skoru: 60
+Bilgisayar Final Skoru: 50
+Farklı bir performansla Oyuncu kazandı!
+=========================================================

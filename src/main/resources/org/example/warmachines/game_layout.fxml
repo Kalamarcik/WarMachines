@@ -1,0 +1,49 @@
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.example.warmachines.GameController"
+      spacing="10"
+      stylesheets="@styles.css"
+      style="-fx-padding: 15;">
+
+    <HBox spacing="20" alignment="CENTER">
+        <Button fx:id="startGameButton" text="Oyunu Başlat" onAction="#handleStartGame"/>
+        <Button fx:id="playMoveButton" text="Hamle Yap" onAction="#handlePlayMove"/>
+    </HBox>
+
+    <HBox spacing="20">
+        <VBox spacing="10" HBox.hgrow="ALWAYS">
+            <Text fx:id="playerScoreText" text="Oyuncu Puanı: 0"/>
+            <Text fx:id="currentMoveText" text="Hamle: 0/5"/>
+            <Text fx:id="computerScoreText" text="Bilgisayar Puanı: 0"/>
+        </VBox>
+        <Label fx:id="selectionInfoLabel" style="-fx-font-weight: bold;"/>
+    </HBox>
+
+    <HBox spacing="20">
+        <VBox spacing="10" HBox.hgrow="ALWAYS">
+            <Label text="Oyuncu Kartları" style="-fx-font-weight: bold;"/>
+            <ScrollPane fitToWidth="true" prefHeight="250">
+                <FlowPane fx:id="playerCardsPane" hgap="10" vgap="10"/>
+            </ScrollPane>
+        </VBox>
+
+        <VBox spacing="10" HBox.hgrow="ALWAYS">
+            <Label text="Bilgisayar Kartları" style="-fx-font-weight: bold;"/>
+            <ScrollPane fitToWidth="true" prefHeight="250">
+                <FlowPane fx:id="computerCardsPane" hgap="10" vgap="10"/>
+            </ScrollPane>
+        </VBox>
+    </HBox>
+
+    <VBox spacing="5">
+        <Label text="Oyun Günlüğü" style="-fx-font-weight: bold;"/>
+        <ListView fx:id="gameLog" prefHeight="150"/>
+    </VBox>
+
+</VBox>
